@@ -40,6 +40,8 @@
 ![스크린샷 2024-06-01 184237](https://github.com/hjyoon99/raspberrypi4/assets/108658882/3f6581c7-bb92-4409-a44b-603c22fd8e51)
 
 ** 여기서 카메라 모듈은 라즈베리파이4의 카메라 연결 모듈에 따로 연결
+![라즈베리_카메라](https://github.com/hjyoon99/RaspberryPi4_SmartFireDetector/assets/108658882/c9ad15d7-b29b-47e5-8720-86490695826e)
+
 
 ## 실행방법
 
@@ -48,3 +50,21 @@
 3. 라즈베리파이 내부 IDE인 지니를 이용해서 해당 첨부코드를 python파일로 저장
 4. 터미널에서 해당 파일의 디렉토리에 들어가서 실행
 5. 잘 출력되는지 확인
+
+## 실행
+
+1. 전체 
+![라즈베리_전체](https://github.com/hjyoon99/RaspberryPi4_SmartFireDetector/assets/108658882/062d6069-9cc0-46bc-a648-3a643593696c)
+
+2. 불꽃센서
+![불꽃감지](https://github.com/hjyoon99/RaspberryPi4_SmartFireDetector/assets/108658882/596cf210-92b0-4344-8b2a-286d471f8e3e)
+![불꽃감지2](https://github.com/hjyoon99/RaspberryPi4_SmartFireDetector/assets/108658882/b64e08da-300c-4b85-b1bd-239ad47ef1af)
+
+3. 정상온도 시 녹색불
+![라즈베리 초기](https://github.com/hjyoon99/RaspberryPi4_SmartFireDetector/assets/108658882/672813d7-1c3f-41a9-95c8-ca2b7165f259)
+
+4. 고온감지 시 출력
+![고온감지](https://github.com/hjyoon99/RaspberryPi4_SmartFireDetector/assets/108658882/693159e8-4293-408f-806a-3096c9a11994)
+
+## 시연 영상 링크
+https://youtu.be/IBntoSquE1A?si=kuTLsrx5bo-TmGfy
