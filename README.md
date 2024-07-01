@@ -20,7 +20,8 @@
 ![image](https://github.com/hjyoon99/RaspberryPi4_SmartFireDetector/assets/108658882/32aa8adf-6e62-407f-a7fe-6c06fd751f77)
 
 
-### 사용 모듈
+## 사용 모듈
+
 - 불꽃감지센서
 - PIR
 - DHT11 온습도센서
@@ -34,7 +35,8 @@
 ![image](https://github.com/hjyoon99/RaspberryPi4_SmartFireDetector/assets/108658882/3e58b2b2-8acf-4db4-bf6e-7ab7532d4a50)
 
 
-### 회로도
+## 회로도
+
 ![스크린샷 2024-06-01 184237](https://github.com/hjyoon99/raspberrypi4/assets/108658882/3f6581c7-bb92-4409-a44b-603c22fd8e51)
 
 ** 여기서 카메라 모듈은 라즈베리파이4의 카메라 연결 모듈에 따로 연결
