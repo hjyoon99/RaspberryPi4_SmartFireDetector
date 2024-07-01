@@ -31,7 +31,8 @@
 
 ![스크린샷 2024-07-01 122009](https://github.com/hjyoon99/RaspberryPi4_SmartFireDetector/assets/108658882/39709307-5c9e-4a75-bfc1-31a6c8d67618)
 
-![스크린샷 2024-07-01 122036](https://github.com/hjyoon99/RaspberryPi4_SmartFireDetector/assets/108658882/23c424ea-c1ea-4583-acc0-a03fdc0d82ff)
+![image](https://github.com/hjyoon99/RaspberryPi4_SmartFireDetector/assets/108658882/3e58b2b2-8acf-4db4-bf6e-7ab7532d4a50)
+
 
 ### 회로도
 ![스크린샷 2024-06-01 184237](https://github.com/hjyoon99/raspberrypi4/assets/108658882/3f6581c7-bb92-4409-a44b-603c22fd8e51)
