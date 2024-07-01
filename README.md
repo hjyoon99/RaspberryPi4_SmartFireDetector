@@ -17,7 +17,8 @@
 
 ![스크린샷 2024-07-01 122025](https://github.com/hjyoon99/RaspberryPi4_SmartFireDetector/assets/108658882/a79e4fdf-9b8d-4775-9b45-3236eb64d8b9)
 
-![스크린샷 2024-07-01 121955](https://github.com/hjyoon99/RaspberryPi4_SmartFireDetector/assets/108658882/17fcbcf1-f73d-4276-8212-7c883930d63e)
+![image](https://github.com/hjyoon99/RaspberryPi4_SmartFireDetector/assets/108658882/32aa8adf-6e62-407f-a7fe-6c06fd751f77)
+
 
 ### 사용 모듈
 - 불꽃감지센서
