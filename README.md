@@ -40,7 +40,8 @@
 ![스크린샷 2024-06-01 184237](https://github.com/hjyoon99/raspberrypi4/assets/108658882/3f6581c7-bb92-4409-a44b-603c22fd8e51)
 
 ** 여기서 카메라 모듈은 라즈베리파이4의 카메라 연결 모듈에 따로 연결
-![라즈베리_카메라](https://github.com/hjyoon99/RaspberryPi4_SmartFireDetector/assets/108658882/c9ad15d7-b29b-47e5-8720-86490695826e)
+![카메라2](https://github.com/hjyoon99/RaspberryPi4_SmartFireDetector/assets/108658882/6bef289b-f936-41cb-b9aa-6e9d4ade9314)
+
 
 
 ## 실행방법
@@ -54,10 +55,12 @@
 ## 실행
 
 1. 전체 
-![라즈베리_전체](https://github.com/hjyoon99/RaspberryPi4_SmartFireDetector/assets/108658882/062d6069-9cc0-46bc-a648-3a643593696c)
+![라즈베리_전체2](https://github.com/hjyoon99/RaspberryPi4_SmartFireDetector/assets/108658882/03d112dc-cc0d-4f7f-998e-5c4223438e6c)
+
 
 2. 불꽃센서
-![불꽃감지](https://github.com/hjyoon99/RaspberryPi4_SmartFireDetector/assets/108658882/596cf210-92b0-4344-8b2a-286d471f8e3e)
+![불꽃센서2](https://github.com/hjyoon99/RaspberryPi4_SmartFireDetector/assets/108658882/d7d8cafa-579f-4a4b-b894-799d99c89473)
+
 ![불꽃감지2](https://github.com/hjyoon99/RaspberryPi4_SmartFireDetector/assets/108658882/b64e08da-300c-4b85-b1bd-239ad47ef1af)
 
 3. 정상온도 시 녹색불
